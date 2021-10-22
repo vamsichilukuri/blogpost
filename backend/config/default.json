@@ -1,0 +1,5 @@
+{
+    "mongodbURI":"mongodb://localhost:27017/blogApp",
+    "JWTSecretKey":"zxcvbnm#@",
+    "JWTSecretKeyForAccountActivation": "meet#999"
+}
