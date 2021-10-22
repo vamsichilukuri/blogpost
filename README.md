@@ -1,4 +1,4 @@
-# MERN Blog App
+# Blog Post
 
 > This simple blog app. here you can post,edit and delete your posts.
 
