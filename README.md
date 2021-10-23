@@ -27,5 +27,5 @@ npm install
 npm start
 
 # BE url
-https://localhost:3001
+http://localhost:3001
 ```
